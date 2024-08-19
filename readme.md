@@ -28,9 +28,8 @@ LSNSCDA
 ├── paper_info
 │   ├── image                   # Model overview
 │   └── Supplementary Materials # Appendix of this paper
-├── other_methods               # All baseline models for comparison
 ├── result_files                # Experimental results
-└── train.py                    # Training and validation code
+├── train.py                    # Training and validation code
 └── environment.yml             # Dependent Package Version
 ``` 
 
