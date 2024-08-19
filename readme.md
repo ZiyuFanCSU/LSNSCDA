@@ -1,4 +1,7 @@
 # LSNSCDA: Unraveling CircRNA–Drug Sensitivity via Local Smoothing Graph Neural Network and Credible Negative Samples
+## To the BiBM reviewers
+Due to the system's requirement that the number of uploaded paper pages should be within 8, we have placed the appendix section under directory /paper_info/Supplementary Materials.pdf on GitHub.
+
 ## Introduction
 We propose LSNSCDA, a novel prediction algorithm leveraging Local Smoothing Graph Neural Networks and Credible Negative Samples to enhance accuracy in identifying circRNA-drug associations. Our method addresses the limitations of fixed-length propagation in graph neural networks and the unreliability of randomly sampled negative instances. Experimental results demonstrate that LSNSCDA outperforms existing models, providing robust predictions and valuable insights for improving cancer treatment outcomes.
 ## Requirements
