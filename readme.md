@@ -34,7 +34,7 @@ LSNSCDA
 
 ## Model
 Overview of LSNSCDA. (a) The overall model workflow proceeds from left to right, encompassing initial node feature encoding, node feature updating based on the local smoothing algorithm of the graph neural network, and concatenating the updated circRNA and drug node encodings for input into the predictor for prediction. (b) The node-dependent local smoothing algorithm. (c) High-credible negative sampling strategy.
-![1.png](paper_info%2Fmodeloverview.png)
+![1.png](paper_info%2Fmodel_overview.png)
 
 ## Training and testing
 
